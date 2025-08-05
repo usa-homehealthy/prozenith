@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProZenith Weight Loss Supplement</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #E9ECEF; /* Light grey background */
+        }
+        header {
+            background: #007BFF; /* Blue header */
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px; /* Rounded corners for the image */
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white; /* White background for content */
+            border-radius: 10px; /* Rounded corners for the container */
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #28A745; /* Green button */
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 0;
+            transition: background 0.3s; /* Smooth transition */
+        }
+        .btn:hover {
+            background: #218838; /* Darker green on hover */
+        }
+        .category {
+            margin: 20px 0;
+            padding: 10px;
+            background: #F8F9FA; /* Light background for categories */
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #007BFF; /* Blue footer */
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .faq {
+            margin: 20px 0;
+            padding: 10px;
+            background: #F8F9FA; /* Light background for FAQs */
+            border-radius: 5px;
+        }
+        .faq h3 {
+            cursor: pointer;
+            color: #007BFF; /* Blue text for FAQ questions */
+        }
+        .faq-content {
+            display: none;
+            padding: 10px;
+            background: #F1F1F1; /* Slightly darker background for answers */
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <h1>Transform Your Body with ProZenith Weight Loss Supplement</h1>
+    <p>The Ultimate Solution for Effective Weight Management</p>
+    <a href="http://web-prozenith.com" class="btn">Shop Now</a>
+</header>
+<div class="container">
+    <img src="https://www.prozynith.com/assets/images/prozenith-hero.webp" alt="ProZenith Weight Loss Supplement">
+    <h2>Why Choose ProZenith?</h2>
+    <ul>
+        <li>Clinically tested ingredients</li>
+        <li>Manufactured in FDA-approved facilities</li>
+        <li>100% satisfaction guarantee</li>
+    </ul>
+    <h2>Benefits of ProZenith Weight Loss Supplement</h2>
+    <ul>
+        <li><strong>Effective Fat Burning:</strong> Our unique formula helps in breaking down fat cells and converting them into energy.</li>
+        <li><strong>Boosts Metabolism:</strong> Ingredients like green tea extract and caffeine work together to increase your metabolic rate.</li>
+        <li><strong>Enhances Energy Levels:</strong> Say goodbye to fatigue! ProZenith provides the energy you need to power through your day.</li>
+        <li><strong>Suppresses Appetite:</strong> Control your cravings and reduce calorie intake with our natural appetite suppressants.</li>
+    </ul>
+    <h2>How to Use ProZenith</h2>
+    <p><strong>Dosage:</strong> Take two capsules daily with a glass of water, preferably before meals.</p>
+    <p><strong>Consistency is Key:</strong> For best results, combine ProZenith with a balanced diet and regular exercise.</p>
+    <h2>Categories</h2>
+    <div class="category">
+        <p><strong>Weight Loss</strong></p>
+        <p><strong>Fitness Supplements</strong></p>
+    </div>
+    <h2>Customer Testimonials</h2>
+    <p><strong>John D.:</strong> "I've lost 15 pounds in just a month! ProZenith has changed my life."</p>
+    <p><strong>Sarah K.:</strong> "I feel more energetic and focused. Highly recommend this supplement!"</p>
+    <p><strong>Emily R.:</strong> "ProZenith helped me overcome my weight loss plateau. I’m so grateful!"</p>
+    <p><strong>Michael T.:</strong> "The energy boost I get from ProZenith is incredible. I can finally keep up with my kids!"</p>
+    <h2>Understanding Weight Loss</h2>
+    <p>Weight loss is a complex process that involves various factors, including diet, exercise, metabolism, and lifestyle choices. It is essential to understand that there is no one-size-fits-all solution. Each individual's body responds differently to weight loss strategies. ProZenith is designed to complement your weight loss journey by providing the necessary support to help you achieve your goals.</p>
+    <h2>The Science Behind ProZenith</h2>
+    <p>ProZenith combines a blend of natural ingredients that have been scientifically proven to aid in weight loss. Ingredients such as green tea extract, garcinia cambogia, and caffeine work synergistically to enhance fat oxidation, suppress appetite, and boost energy levels. Our formula is designed to help you burn fat more efficiently while maintaining muscle mass.</p>
+    <h2>Healthy Lifestyle Tips</h2>
+    <p>In addition to taking ProZenith, adopting a healthy lifestyle is crucial for effective weight loss. Here are some tips:</p>
+    <ul>
+        <li><strong>Balanced Diet:</strong> Focus on whole foods, including fruits, vegetables, lean proteins, and whole grains.</li>
+        <li><strong>Regular Exercise:</strong> Aim for at least 150 minutes of moderate aerobic activity each week, along with strength training exercises.</li>
+        <li><strong>Stay Hydrated:</strong> Drink plenty of water throughout the day to support metabolism and overall health.</li>
+        <li><strong>Get Enough Sleep:</strong> Aim for 7-9 hours of quality sleep each night to support weight loss and recovery.</li>
+    </ul>
+    <h2>Common Weight Loss Myths</h2>
+    <p>There are many misconceptions about weight loss that can hinder your progress. Here are a few common myths debunked:</p>
+    <ul>
+        <li><strong>Myth 1:</strong> Carbs are the enemy. <br> Truth: Carbohydrates are an essential part of a balanced diet. Focus on complex carbs rather than refined sugars.</li>
+        <li><strong>Myth 2:</strong> You can spot-reduce fat. <br> Truth: Fat loss occurs throughout the body, not in specific areas.</li>
+        <li><strong>Myth 3:</strong> Skipping meals helps with weight loss. <br> Truth: Skipping meals can lead to overeating later and disrupt your metabolism.</li>
+    </ul>
+    <h2>Frequently Asked Questions (FAQs)</h2>
+    <div class="faq">
+        <h3 onclick="toggleFAQ('faq1')">Is ProZenith safe?</h3>
+        <div id="faq1" class="faq-content">
+            <p>Yes, ProZenith is made from natural ingredients and is safe for most individuals. However, consult your doctor if you have any pre-existing conditions.</p>
+        </div>
+    </div>
+    <div class="faq">
+        <h3 onclick="toggleFAQ('faq2')">How long does it take to see results?</h3>
+        <div id="faq2" class="faq-content">
+            <p>Results may vary, but many users report noticeable changes within 4-6 weeks of consistent use.</p>
+        </div>
+    </div>
+    <div class="faq">
+        <h3 onclick="toggleFAQ('faq3')">Can I take ProZenith with other medications?</h3>
+        <div id="faq3" class="faq-content">
+            <p>It is advisable to consult your healthcare provider before combining ProZenith with other medications or supplements.</p>
+        </div>
+    </div>
+    <div class="faq">
+        <h3 onclick="toggleFAQ('faq4')">What if I am not satisfied with the product?</h3>
+        <div id="faq4" class="faq-content">
+            <p>We offer a 100% satisfaction guarantee. If you are not satisfied, please contact our customer service for assistance.</p>
+        </div>
+    </div>
+    <h2>Ready to Transform Your Life?</h2>
+    <p>Don’t wait any longer! Start your weight loss journey with ProZenith today. Our product is designed to help you achieve your goals effectively and safely.</p>
+    <a href="http://web-prozenith.com" class="btn">Order Now</a>
+</div>
+<footer>
+    <p>&copy; 2023 ProZenith. All rights reserved.</p>
+    <p><a href="http://web-prozenith.com" style="color: white;">Privacy Policy</a> | <a href="http://web-prozenith.com" style="color: white;">Terms of Service</a> | <a href="http://web-prozenith.com" style="color: white;">Contact Us</a></p>
+</footer>
+<script>
+    function toggleFAQ(faqId) {
+        var content = document.getElementById(faqId);
+        if (content.style.display === "none" || content.style.display === "") {
+            content.style.display = "block";
+        } else {
+            content.style.display = "none";
+        }
+    }
+</script>
+</body>
+</html>

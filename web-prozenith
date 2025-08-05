@@ -162,7 +162,7 @@
 </div>
 <footer>
     <p>&copy; 2023 ProZenith. All rights reserved.</p>
-    <p><a href="http://web-prozenith.com" style="color: white;">Privacy Policy</a> | <a href="http://web-prozenith.com" style="color: white;">Terms of Service</a> | <a href="http://web-prozenith.com" style="color: white;">Contact Us</a></p>
+    <p><a href="https://www.getprozenith.us/" style="color: white;">Privacy Policy</a> | <a href="http://web-prozenith.com" style="color: white;">Terms of Service</a> | <a href="https://www.getprozenith.us/" style="color: white;">Contact Us</a></p>
 </footer>
 <script>
     function toggleFAQ(faqId) {
